@@ -9,4 +9,4 @@
 
 <i>Pok&eacute;mon: Beyond Moonview</i> is a 2D MMORPG made using Eclipse Origins 4.0, made as something that my friends and I could just hang out on together. The entire client is being put up here because I don't think that version is available from their website anymore.
 
-The setting is a Pok&ecacute;mon-only world centered more or less around Mt. Moonview and the big building near its peak, Moonview Observatory. Around and beyond the mountain is a world full of adventure, treasure, and danger... or at least there will be once it's made. Complete with even random dungeons!
+The setting is a Pok&eacute;mon-only world centered more or less around Mt. Moonview and the big building near its peak, Moonview Observatory. Around and beyond the mountain is a world full of adventure, treasure, and danger... or at least there will be once it's made. Complete with even random dungeons!
