@@ -3,7 +3,7 @@
 
 <b>Status:</b> Still setting stuff up. Just have the starting area so far.
 
-<b>For those who do not have a Git client:</b> The game client and runtime installer can be downloaded using "Download ZIP" on your left. Note that if you're updating, you probably want to just download Client/data files/PKMN_Moonview, which is going to have the stuff that actually changes.
+<b>For those who do not have a Git client:</b> The game client and runtime installer can be downloaded using "Download ZIP" on the right side of the window. Note that if you're updating, you probably want to just download Client/data files/PKMN_Moonview, which is going to have the stuff that actually changes.
 
 ## About
 
