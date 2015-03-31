@@ -1,0 +1,24 @@
+The following error occured at 'QuestEditorInitTask' in 'modQuests'.
+Run-time error '380': Invalid property value.
+The error occured on line 600
+
+The following error occured at 'CheckDirection' in 'modGameLogic'.
+Run-time error '91': Object variable or With block variable not set.
+The error occured on line 1010
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': Subscript out of range.
+The error occured on line 20
+
+The following error occured at 'WriteBytes' in 'clsBuffer'.
+Run-time error '9': Subscript out of range.
+The error occured on line 20
+
+The following error occured at 'AnimationEditorInit' in 'modGameEditors'.
+Run-time error '380': Invalid property value.
+The error occured on line 240
+
+The following error occured at 'AnimationEditorInit' in 'modGameEditors'.
+Run-time error '380': Invalid property value.
+The error occured on line 240
+
